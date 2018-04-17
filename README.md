@@ -63,8 +63,17 @@ Login as user grader: sudo su - grader
 Create SSH Key pair with: ssh-keygen -t rsa
 When prompted for where to place type: grader
 
-#Using the application
+#Resources
+google to update cuurent findings to numorous to list
+  Also the two resources below.
+https://github.com/petergns/linux_server_catalog/blob/master/README.md#login-authorization-configuration
+https://github.com/mulligan121/Udacity-Linux-Configuration/blob/master/README.md
 
+
+#To run this final project
+Go to ec2-18-219-147-8.us-east-2.compute.amazonaws.com
+Select the year you are looking for
+Select the game you are lookig for Then you will see the details.
 
 
 
